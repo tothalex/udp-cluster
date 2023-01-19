@@ -1,8 +1,8 @@
 `export AWS_REGION=eu-central-1 # Define the AWS region`
 
-`export CLUSTER_NAME=myenergi # Cluster name`
+`export CLUSTER_NAME=app # Cluster name`
 
-`export KUBECONFIG=${HOME}/.kube/myenergi # Define a new KUBECONFIG for the example`
+`export KUBECONFIG=${HOME}/.kube/app # Define a new KUBECONFIG for the example`
 
 ## Create Cluster in AWS
 
